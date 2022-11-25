@@ -167,3 +167,4 @@ print(classification_report(y_test,predictions))
 
 
 ## RESULT
+Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
